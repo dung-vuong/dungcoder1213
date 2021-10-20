@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dung Vuong.
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python, Machine Learning, Data Science.
-- 💞️ I’m looking to collaborate on Data Science Projects.
+- 👀 I’m interested in Front-end Development.
+- 🌱 I’m currently learning HTML, CSS, JS, React.
+- 💞️ I’m looking to collaborate on Web Projects.
 - 📫 How to reach me: dungvuong1213@gmail.com
 
 <!---
